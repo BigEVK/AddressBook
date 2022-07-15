@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    background-image: linear-gradient(to right, black, grey, black);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.name {
+    display: flex;
+    /* flex-grow: 1; */
+
+}
